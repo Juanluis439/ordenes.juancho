@@ -11,7 +11,7 @@ const orders = [
   },
   {
     buyerName: 'Alice Johnson',
-    productDescription: 'Smartphone ',
+    productDescription: 'Smartphone',
     subtotal: 400,
     tax: 40,
     total: 440,
